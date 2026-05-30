@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerderify",
+        "uuid": 7473480,
+        "checksum": "2s3tji"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
